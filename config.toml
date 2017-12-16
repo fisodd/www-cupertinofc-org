@@ -1,0 +1,13 @@
+baseurl = "http://www-cupertinofc-org.netlify.com/"
+title = "Cupertino FC"
+languageCode = "en-us"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+SectionPagesMenu = "main"
+Paginate = 9
+
+[params]
+  background_color_class = "bg-black"
+  featured_image = "/images/templateimage.jpg"
+

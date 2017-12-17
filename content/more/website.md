@@ -12,10 +12,11 @@ This website is built from some powerful free tools.
 
 * [Hugo](https://gohugo.io/)
  with the [Ananke](https://github.com/budparr/gohugo-theme-ananke) theme
-* [Github](https://github.com/)
-* [Netlify](https://www.netlify.com/)
+* [Github](https://github.com/) and [Netlify](https://www.netlify.com/)
 
-And the images come from people in the creative commons community
+Many of the images come from artists in the creative commons community
+and other sources of sharable work -- their skills and their generosity
+are gratefully appreciated.
 
 * Gellinger, https://pixabay.com/en/users/Gellinger-201217/
    * ball pile on clear pitch
